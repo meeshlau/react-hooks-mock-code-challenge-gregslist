@@ -6,6 +6,8 @@ function Search() {
     console.log("submitted");
   }
 
+
+
   return (
     <form className="searchbar" onSubmit={handleSubmit}>
       <input
